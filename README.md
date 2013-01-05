@@ -5,10 +5,12 @@ RailsとHamlとSassとCompassとjQueryとCoffeeScriptとFontAwesomeで静的ペ�
 
 ## How do I get started?
 
-1) You'll need to clone your rails4static to your local machine.
+1) Fork it.
+
+1) Clone your rails4static to your local machine.
 
 ```
-git clone git@github.com:taea/rails4static.git
+git clone git@github.com:YOURUSER/rails4static.git
 ```
 
 2) Start up Ruby on Rails.
