@@ -1,6 +1,7 @@
 # Rails4static
 
-Framework for static contents with Rails + Haml + Sass + Compass + jQuery + CoffeeScript + FontAwesome
+Framework for static contents with Rails + Haml + Sass + Compass + jQuery + CoffeeScript + FontAwesome   
+RailsとHamlとSassとCompassとjQueryとCoffeeScriptとFontAwesomeで静的ページを作る的なアレ
 
 ## How do I get started?
 
