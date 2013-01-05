@@ -7,22 +7,22 @@ RailsとHamlとSassとCompassとjQueryとCoffeeScriptとFontAwesomeで静的ペ�
 
 1) Fork it.
 
-1) Clone your rails4static to your local machine.
+2) Clone your rails4static to your local machine.
 
 ```
 git clone git@github.com:YOURUSER/rails4static.git
 ```
 
-2) Start up Ruby on Rails.
+3) Start up Ruby on Rails.
 
 ```
 cd rails4static
 rails s
 ```
 
-3) Edit markup on `/app/views/home/index.html.haml`
+4) Edit markup on `/app/views/home/index.html.haml`
 
-4) Edit Sass on `/app/assets/stylesheets/style.css.sass`   
+5) Edit Sass on `/app/assets/stylesheets/style.css.sass`   
 If you needs add other Sass file, add this to `app/assets/stylesheets/basic.sass.erb` 
 ```
 @import FILENAME
