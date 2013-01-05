@@ -19,7 +19,7 @@ rails s
 
 3) Edit markup on `/app/views/home/index.html.haml`
 
-4) Edit Sass on `/app/assets/stylesheets/style.css.sass`
+4) Edit Sass on `/app/assets/stylesheets/style.css.sass`   
 If you needs add other Sass file, add this `app/assets/stylesheets/basic.sass.erb` 
 ```
 @import FILENAME
