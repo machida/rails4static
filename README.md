@@ -1,7 +1,7 @@
 # Rails4static
 
-Framework for static prototype with Rails + Haml + Sass + Compass + jQuery + CoffeeScript + FontAwesome   
-RailsとHamlとSassとCompassとjQueryとCoffeeScriptとFontAwesomeで静的ページを作る的なアレ
+The startup kit for designing static prototype with Rails + Haml + Sass + Compass + jQuery + CoffeeScript + FontAwesome   
+RailsとHamlとSassとCompassとjQueryとCoffeeScriptとFontAwesomeで静的ページを手っ取り早く作る的なアレ
 
 ## How do I get started?
 
@@ -18,7 +18,7 @@ git clone git@github.com:YOURUSER/rails4static.git
 ```
 bundle
 ```
-4) Start up Ruby on Rails.
+4) Startup Ruby on Rails.
 
 ```
 cd rails4static
